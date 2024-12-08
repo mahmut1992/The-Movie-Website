@@ -1,7 +1,23 @@
-<h1>Film Projesi</h1>
+# 🏠The-Movie-Website
 
-sevdiğiniz kategorilerdeki filmleri seçip derleyip keyifle izleyebileceğiniz bir projedir.
+In this repo, a website has been designed using Html and Css, where you can compile and enjoy watching movies in your favorite categories.
 
-<h2>Ekran Görüntüsü</h2>
+# 🚀Features
+
+-Responsive Design
+
+-User-Friendly Interface
+
+# 🛠️Technologies Used
+
+-Html
+
+-Css
+
+# Screenshot
 
 ![](film-sitesi.gif)
+
+# 📨Contact
+
+For your questions, comments and suggestions, please contact: fratsbht@icloud.com
